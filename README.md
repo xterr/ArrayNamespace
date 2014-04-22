@@ -2,7 +2,7 @@ ArrayNamespace
 ==============
 
 Thank you for chosing ArrayNamespace! ArrayNamespace makes your job easier when dealing with arrays.
-You don`t have to worry about initializing keys when in strict mode or have to set first a value for increment operations.
+You don`t have to worry about initializing keys when in strict mode or have to first set a value for increment operations.
 
 Usage
 -----
