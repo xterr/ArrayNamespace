@@ -1,0 +1,22 @@
+{
+	"name"       : "xterr/ArrayNamespace",
+	"description": "Array Namespacing class",
+	"keywords"   : ["array", "namespace"],
+	"homepage"   : "http://www.yiiframework.com/",
+	"type"       : "library",
+	"license"    : "BSD-3-Clause",
+	"authors"    : [
+		{
+			"name" : "Ceana Razvan",
+			"email": "razvan@ceana.ro",
+			"role" : "Founder and project lead"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/yiisoft/yii/issues?state=open",
+		"source": "https://github.com/xterr/ArrayNamespace"
+	},
+	"require": {
+		"php": ">=5.1.0"
+	}
+}
