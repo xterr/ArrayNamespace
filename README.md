@@ -13,6 +13,7 @@ Usage
     $oMap->increment('key1.key2.key3', 1) // second parament is the increment step or value
 
     $oMap->sort('key1.key2', 'key3', TRUE); Order specific key by a field, ascending or descending
+    $oMap->toArray(); Will create and return an associative array
   
 Known bugs
 ----------
