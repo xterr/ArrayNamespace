@@ -3,7 +3,7 @@
  * Class ArrayNamespace
  */
 
-class ArrayNamespace extends CComponent
+class ArrayNamespace
 {
 	protected $_aData = [];
 
